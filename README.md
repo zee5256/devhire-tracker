@@ -6,7 +6,9 @@ A full-stack job application tracker with a drag-and-drop Kanban pipeline, a fol
 
 ![DevHire Tracker landing page](docs/screenshots/landing.png)
 
-> **Try it:** run the app locally and sign in with `demo@devhire.app` / `demo1234`, or click **Explore the demo workspace** on the login screen. The demo account is seeded with 14 realistic applications, notes, and follow-up dates.
+> **Live demo:** [devhire-tracker.vercel.app](https://devhire-tracker.vercel.app) — sign in with `demo@devhire.app` / `demo1234`, or click **Explore the demo workspace** on the login screen. The demo account is seeded with 14 realistic applications, notes, and follow-up dates.
+>
+> **Run locally:** follow the setup steps below and start the app with `npm run dev`.
 
 ---
 
